@@ -1,0 +1,37 @@
+{
+  "id": "/summoned/",
+  "name": "Summoned",
+  "short_name": "Summoned",
+  "description": "An original offline monster-card duel game in two worlds, mythic fantasy and the Day 1 office: classic rules, a campaign of CPU duelists, card packs and a deck builder.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f1630",
+  "theme_color": "#0f1630",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
