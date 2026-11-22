@@ -1,5 +1,5 @@
 /* Summoned offline copy (sw.js): made by the Pages build from its template - do not edit */
-/* build 1.5.0-538ba0b5400187c2: a cache-first copy of the game's 9 files, each checked against its sha256 */
+/* build 1.5.1-f8cbe66b1616fd1f: a cache-first copy of the game's 9 files, each checked against its sha256 */
 'use strict';
 (function smnServiceWorker(BUILD, FILES) {
   const SCOPE = new URL('./', self.location.href);
@@ -75,14 +75,14 @@
       }
     })());
   });
-})("1.5.0-538ba0b5400187c2", [
+})("1.5.1-f8cbe66b1616fd1f", [
   ["apple-touch-icon.png","a826da0a39a10c2c8c539aa2be334104459e9a7ca3047a5a1f51be4f3e853054"],
-  ["art_worker.js","2244937a7faa183a8409c36006633c843a4c86d09f5b99ecf93e82e22c8b376a"],
+  ["art_worker.js","8b95381f89187214135c69a08b2c27eb1bd94796e645eddcb8a9739fa942d463"],
   ["favicon.png","6b20b086a5625e785aebdf3734a1aa998920e26880efb37b26326eae35e7edc7"],
-  ["game.css","e745a8f6dbd6df691b7d9f32912858726bf2a73242b76b430a30f91d690aa5fd"],
-  ["game.js","cfe84383ab2b3fff0f05e52129dbd9e70f4f4bb8c7512934515027e52067d4eb"],
+  ["game.css","b959df97aa686c88ff7119cbdec51ed230514ea0e159f0414b2bff607c38121d"],
+  ["game.js","658e9768f099f361be10f7c5873ce4b180617db3161d0e11dc4e4c63e1031668"],
   ["icon-192.png","44908ad4475c037d3f70e378a5868b7543bb55a6d58a0100fe57bc1f117c769c"],
   ["icon-512.png","ac28a26e1156508d6496100313e703098f7039e93a42642c44c594c4e0a31457"],
-  ["index.html","443d7e53ffd1db3e631a037df01e0b40bdf74cbbc5a728ad9a148e5ee17c7b60"],
+  ["index.html","709a43b824a0db324d8dde984112ba6a0f4fea8ade506a398a7a1211222e91d7"],
   ["manifest.webmanifest","b9ea87990cb5dc3e8e0684cc915d6d55303f75f1fd35434b19394c0d0904db8a"]
 ]);

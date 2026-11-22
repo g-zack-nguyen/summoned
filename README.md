@@ -37,4 +37,8 @@ There is no account, no ads and no tracking: the game never sends anything anywh
 made in code. After the first visit it plays offline. When a new version is out, the game says **New version ready**
 with an **Update now** button; your progress stays.
 
-Version 1.5.0 (build 538ba0b5400187c2).
+## These files
+
+The finished game for GitHub Pages: 12 files in one folder, no sub-folders. Upload all of them, including
+art_worker.js, which draws the card pictures in the background. A new version replaces all of them in one go.
+Version 1.5.1 (build f8cbe66b1616fd1f).
